@@ -1,0 +1,4 @@
+*/build/*
+.vscode/*
+post/post.*
+get/get.*
